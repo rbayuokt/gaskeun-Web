@@ -40,3 +40,4 @@ gaskeun dibuat untuk memprediksi sebarapa besar kemungkinan kita untuk menonton 
 <img src="screenshoot/about.png" width="600px" /><br><br>
 
 made with :heart: in Cimahi by @rbayuokt
+[My Instragram](https://www.instagram.com/rbayuokt/) :thumbs:
