@@ -20,18 +20,18 @@ gaskeun dibuat untuk memprediksi sebarapa besar kemungkinan kita untuk menonton 
 
 # Screenshoot
 
-**Halaman Utama** : <br><br>
+**HALAMAN UTAMA** : <br><br>
 
-*jika ada cuaca yang cerah*
+*jika ada cuaca yang cerah*br>
 <img src="screenshoot/home1.png" width="600px" /><br><br>
 
-*jika tidak ada cuaca yang cerah*
+*jika tidak ada cuaca yang cerah*br>
 <img src="screenshoot/home2.png" width="600px" /><br><br>
 
-**Mencari referensi film** : <br><br>
+**MENCARI REFERENSI FILM** : <br><br>
 <img src="screenshoot/cari_film.png" width="600px" /><br><br>
 
-**About** : <br><br>
+**ABOUT** : <br><br>
 <img src="screenshoot/about.png" width="600px" /><br><br>
 
 made with :heart: in Cimahi by @rbayuokt
