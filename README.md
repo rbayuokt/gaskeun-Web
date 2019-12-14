@@ -22,10 +22,10 @@ gaskeun dibuat untuk memprediksi sebarapa besar kemungkinan kita untuk menonton 
 
 **HALAMAN UTAMA** : <br><br>
 
-*jika ada cuaca yang cerah*br>
+*jika ada cuaca yang cerah*<br>
 <img src="screenshoot/home1.png" width="600px" /><br><br>
 
-*jika tidak ada cuaca yang cerah*br>
+*jika tidak ada cuaca yang cerah*<br>
 <img src="screenshoot/home2.png" width="600px" /><br><br>
 
 **MENCARI REFERENSI FILM** : <br><br>
