@@ -11,6 +11,11 @@ gaskeun dibuat untuk memprediksi sebarapa besar kemungkinan kita untuk menonton 
 5. Sistem akan mengeluarkan output berupa informasi film beserta cuacanya.
 6. User bisa melihat seberapa besar kemungkinan bisa menonton lewat prediksi dalam bentuk persen ( % ).
 
+# Fitur
+1. Melihat jadwal film bioskop pada hari itu juga beserta dengan prediksi cuacanya
+2. Memprediksi kemungkinan dapat menonton dalam bentuk ( % ) diperentukan untuk pengguna motor
+3. Mencari sinopsis film beserta rating film tersebut
+
 # Komponen yang digunakan 
 - [x] Bootstrap 
 - [x] PHP OOP
@@ -20,18 +25,18 @@ gaskeun dibuat untuk memprediksi sebarapa besar kemungkinan kita untuk menonton 
 
 # Screenshoot
 
-**HALAMAN UTAMA** : <br><br>
+**HALAMAN UTAMA** : <br>
 
-*jika ada cuaca yang cerah*<br>
+*jika ada cuaca yang cerah*<br><br>
 <img src="screenshoot/home1.png" width="600px" /><br><br>
 
-*jika tidak ada cuaca yang cerah*<br>
+*jika tidak ada cuaca yang cerah*<br><br>
 <img src="screenshoot/home2.png" width="600px" /><br><br>
 
-**MENCARI REFERENSI FILM** : <br><br>
+**MENCARI REFERENSI FILM** : <br>
 <img src="screenshoot/cari_film.png" width="600px" /><br><br>
 
-**ABOUT** : <br><br>
+**ABOUT** : <br>
 <img src="screenshoot/about.png" width="600px" /><br><br>
 
 made with :heart: in Cimahi by @rbayuokt
