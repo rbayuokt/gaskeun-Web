@@ -39,5 +39,4 @@ gaskeun dibuat untuk memprediksi sebarapa besar kemungkinan kita untuk menonton 
 **ABOUT** : <br>
 <img src="screenshoot/about.png" width="600px" /><br><br>
 
-made with :heart: in Cimahi by @rbayuokt
-[My Instragram](https://www.instagram.com/rbayuokt/) :thumbs:
+made with :heart: in Cimahi by [@rbayuokt](https://www.instagram.com/rbayuokt/) :thumbsup:
